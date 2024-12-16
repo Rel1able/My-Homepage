@@ -1,7 +1,7 @@
 :root{
-    --main-color: #e65f05;
+    --main-color: #0b7a6c;
     /*--secondary-color: rgb(3, 3, 102);*/
-    --secondary-color: rgb(37, 37, 37);
+    --secondary-color: rgb(39, 38, 38);
 }
 
 body{
@@ -162,7 +162,7 @@ footer{
     align-items: center;
     margin: 1rem;
     flex-direction: column;
-    text-shadow: 1px 1px 1px rgb(59, 39, 1);
+    text-shadow: 1px 1px 1px rgb(8, 125, 82);
 }
 
 @media (max-width: 600px){
